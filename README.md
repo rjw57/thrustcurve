@@ -1,5 +1,9 @@
 # thrustcurve: Python amateur rocketry file formats
 
+[![Documentation
+Status](https://readthedocs.org/projects/thrustcurve/badge/?version=latest)](http://thrustcurve.readthedocs.org/en/latest/?badge=latest)
+
+
 Thrustcurve is a Python module designed to make it easy to parse amateur
 rocketry file formats.
 
