@@ -22,7 +22,7 @@ def load(fn_or_fobj):
         fn_or_fobj (str or file like object): file containing .rse format data
 
     Returns:
-        A list of :py:class:`.Engine` instances, one per engine in the file.
+        A list of :py:class:`Engine` instances, one per engine in the file.
 
     Raises:
         ParseError: if the file is of the wrong format
