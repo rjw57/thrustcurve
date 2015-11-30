@@ -1,0 +1,13 @@
+# Cached bytecode
+*.pyc
+__pycache__
+
+# Setuptools detritus
+build
+sdist
+*.egg-info
+
+# Tox and coverage output
+.cache
+.coverage
+.tox

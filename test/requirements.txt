@@ -1,0 +1,4 @@
+# Additional requirements beyond those listed in setup.py required to run the
+# test suite.
+pytest
+pytest-cov
