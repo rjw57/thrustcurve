@@ -5,10 +5,16 @@ rocketry file formats.
 
 ## Installation
 
+Install from PyPI via:
+
+```console
+$ pip install thrustcurve
+```
+
 Install from Git via:
 
 ```console
-pip install git+https://github.com/rjw57/thrustcurve
+$ pip install git+https://github.com/rjw57/thrustcurve
 ```
 
 ## Documentation
