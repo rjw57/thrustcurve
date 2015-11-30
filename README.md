@@ -1,5 +1,8 @@
 # thrustcurve: Python amateur rocketry file formats
 
+Thrustcurve is a Python module designed to make it easy to parse amateur
+rocketry file formats.
+
 ## Installation
 
 Install from Git via:
@@ -8,7 +11,15 @@ Install from Git via:
 pip install git+https://github.com/rjw57/thrustcurve
 ```
 
+## Documentation
+
+More documentation is available at
+http://thrustcurve.readthedocs.org/en/latest/.
+
 ## Usage example
+
+The following IPython session demonstrates fetching and parsing a RockSim (.rse)
+format file:
 
 ```ipython
 In [1]: import requests
@@ -51,7 +62,3 @@ Out[9]:
 15  0.453    8.720   0.004915
 16  0.455    0.000   0.000000
 ```
-
-## Documentation
-
-FIXME
