@@ -1,2 +1,5 @@
 recommonmark
+ipython
+matplotlib
+requests
 
