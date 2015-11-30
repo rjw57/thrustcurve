@@ -4,7 +4,7 @@ __pycache__
 
 # Setuptools detritus
 build
-sdist
+dist
 *.egg-info
 
 # Tox and coverage output
