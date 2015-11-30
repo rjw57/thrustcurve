@@ -1,5 +1,7 @@
 # thrustcurve: Python amateur rocketry file formats
 
+[![Coverage
+Status](https://coveralls.io/repos/rjw57/thrustcurve/badge.svg?branch=master&service=github)](https://coveralls.io/github/rjw57/thrustcurve?branch=master)
 [![Documentation
 Status](https://readthedocs.org/projects/thrustcurve/badge/?version=latest)](http://thrustcurve.readthedocs.org/en/latest/?badge=latest)
 
